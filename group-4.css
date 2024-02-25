@@ -1,0 +1,50 @@
+.group-child102 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 172px);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray-200);
+  width: 344px;
+  height: 72px;
+}
+.group-child103 {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  border-radius: var(--br-14xl-5);
+  background-color: var(--color-gray-100);
+  width: 67px;
+  height: 67px;
+}
+.instant-bmi-icon4 {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  width: 52px;
+  height: 46px;
+  object-fit: cover;
+}
+.instant-bmi9 {
+  margin: 0;
+}
+.business-meeting-insights {
+  margin: 0;
+  font-weight: 500;
+  color: var(--color-gold-200);
+}
+.instant-bmi-business-container5 {
+  position: absolute;
+  top: 12px;
+  left: 85px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+.rectangle-top {
+  width: 100%;
+  position: relative;
+  height: 72px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

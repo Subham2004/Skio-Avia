@@ -1,0 +1,15 @@
+.bg-icon27 {
+  position: absolute;
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+  object-fit: contain;
+}
+.iphone-13-mini-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+}

@@ -1,0 +1,78 @@
+.group-child68 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 428px;
+  height: 600px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.sridhar-has-launched {
+  margin: 0;
+}
+.sridhar-has-launched-container {
+  position: absolute;
+  top: 2px;
+  left: 61px;
+  font-weight: 500;
+}
+.rectangle-parent23,
+.rectangle-parent24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 303px;
+  height: 50px;
+}
+.rectangle-parent24 {
+  top: 80px;
+  width: 307px;
+}
+.rectangle-parent25,
+.rectangle-parent26 {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 329px;
+  height: 50px;
+}
+.rectangle-parent26 {
+  top: 240px;
+  width: 313px;
+}
+.group-parent3,
+.rectangle-parent27,
+.rectangle-parent28 {
+  position: absolute;
+  top: 320px;
+  left: 0;
+  width: 303px;
+  height: 50px;
+}
+.group-parent3,
+.rectangle-parent28 {
+  top: 400px;
+  width: 340px;
+}
+.group-parent3 {
+  top: 75px;
+  left: 44px;
+  height: 450px;
+}
+.rectangle-root {
+  width: 100%;
+  position: relative;
+  height: 600px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

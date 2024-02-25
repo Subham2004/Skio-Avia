@@ -1,0 +1,84 @@
+.bg-icon8 {
+  position: absolute;
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+  object-fit: contain;
+}
+.project-skio-aiva-12 {
+  position: absolute;
+  top: -9px;
+  left: -731px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.splash-6-child {
+  position: absolute;
+  top: 486px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.82) 71.85%,
+    #000
+  );
+  width: 375px;
+  height: 326px;
+}
+.logo-icon8 {
+  position: absolute;
+  top: calc(50% - 234px);
+  left: 103.3px;
+  width: 169.6px;
+  height: 166px;
+  object-fit: contain;
+}
+.welcome4 {
+  margin: 0;
+}
+.to-skio4 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.welcome-to-skio-container4 {
+  position: absolute;
+  top: calc(50% - 46px);
+  left: calc(50% - 111.5px);
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+}
+.finger-prints-35 {
+  position: absolute;
+  top: 638px;
+  left: 146.5px;
+  width: 82.2px;
+  height: 82px;
+  object-fit: cover;
+}
+.verify-with-fingerprints5 {
+  position: absolute;
+  top: 742px;
+  left: 85px;
+  letter-spacing: 0.05em;
+}
+.the-second-brain5 {
+  position: absolute;
+  top: 455px;
+  left: calc(50% - 79.5px);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  color: #d608db;
+}
+.splash-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-futura-pt);
+}

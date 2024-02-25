@@ -1,0 +1,63 @@
+.bg-icon5,
+.logo-icon5 {
+  position: absolute;
+  object-fit: contain;
+}
+.bg-icon5 {
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+}
+.logo-icon5 {
+  top: calc(50% - 99px);
+  left: 87px;
+  width: 202.3px;
+  height: 198px;
+}
+.the-second-brain2 {
+  position: absolute;
+  top: 921px;
+  left: calc(50% - 80.5px);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.welcome3 {
+  margin: 0;
+}
+.to-skio3 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.welcome-to-skio-container3 {
+  position: absolute;
+  top: 829px;
+  left: calc(50% - 111.5px);
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+}
+.verify-with-fingerprints2 {
+  position: absolute;
+  top: 1149px;
+  left: 85px;
+  letter-spacing: 0.05em;
+}
+.finger-prints-32 {
+  position: absolute;
+  top: 984px;
+  left: 136px;
+  width: 102.2px;
+  height: 102px;
+  object-fit: cover;
+}
+.splash-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-futura-pt);
+}

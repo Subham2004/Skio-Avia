@@ -1,0 +1,9 @@
+.skio {
+  width: 100%;
+  position: relative;
+  height: 368px;
+  background-image: url(./public/skio@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

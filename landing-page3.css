@@ -1,0 +1,236 @@
+.bg-icon12,
+.logo-icon14 {
+  position: absolute;
+  object-fit: contain;
+}
+.bg-icon12 {
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+}
+.logo-icon14 {
+  top: calc(50% - 18.5px);
+  left: 104px;
+  width: 37.8px;
+  height: 37px;
+}
+.skio-aiva8 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-weight: 500;
+}
+.logo-parent1 {
+  position: absolute;
+  top: calc(50% - 342px);
+  left: 210px;
+  width: 141.8px;
+  height: 37px;
+  font-size: var(--font-size-xl);
+}
+.vector-icon {
+  position: absolute;
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+  display: none;
+}
+.group-child20,
+.mask-group-icon3 {
+  position: absolute;
+  left: calc(50% - 187.5px);
+  width: 375px;
+}
+.mask-group-icon3 {
+  top: 160px;
+  height: 320px;
+  object-fit: cover;
+}
+.group-child20 {
+  top: 0;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--color-black);
+  height: 436px;
+}
+.life-is-better3 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  font-family: var(--font-plus-jakarta-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.skio-aiva9,
+.the-second-brain9 {
+  position: absolute;
+  letter-spacing: 0.05em;
+}
+.skio-aiva9 {
+  top: 22px;
+  left: 8px;
+  font-size: var(--font-size-28xl);
+  font-family: var(--font-colo-pro);
+  color: var(--color-gold-100);
+  text-shadow: 0 0 20px #f3d42e;
+}
+.the-second-brain9 {
+  top: 78px;
+  left: calc(50% - 164px);
+  font-weight: 500;
+  font-family: var(--font-plus-jakarta-sans);
+}
+.group-child21 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 172px);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray-200);
+  width: 344px;
+  height: 72px;
+}
+.group-child22 {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  border-radius: var(--br-14xl-5);
+  background-color: var(--color-gray-200);
+  width: 67px;
+  height: 67px;
+}
+.business3 {
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.matchmaking3 {
+  font-weight: 500;
+}
+.business-matchmaking4 {
+  margin: 0;
+}
+.co-relations-heatmap4 {
+  margin: 0;
+  color: var(--color-white);
+}
+.business-matchmaking-container4 {
+  position: absolute;
+  top: 12px;
+  left: 77px;
+  line-height: 21px;
+}
+.usiness-matchmaking-heatmap-icon4 {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 47px;
+  height: 41px;
+  object-fit: cover;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 220px;
+  left: calc(50% - 172px);
+  width: 344px;
+  height: 72px;
+  cursor: pointer;
+}
+.newsroom3 {
+  font-weight: 500;
+  color: var(--color-gold-200);
+}
+.business-network-newsroom-container2 {
+  position: absolute;
+  top: 24px;
+  left: 82px;
+  line-height: 21px;
+}
+.business-network-newsroom-icon4 {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  width: 57px;
+  height: 56px;
+  object-fit: cover;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 321px;
+  left: calc(50% - 172px);
+  width: 344px;
+  height: 72px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.instant-bmi-icon3 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 52px;
+  height: 46px;
+  object-fit: cover;
+}
+.insights3 {
+  margin: 0;
+  font-weight: 500;
+}
+.instant-bmi-business-container4 {
+  position: absolute;
+  top: 14px;
+  left: 83px;
+  line-height: 21px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 119px;
+  left: calc(50% - 172px);
+  width: 344px;
+  height: 72px;
+  cursor: pointer;
+  text-align: left;
+}
+.life-is-better-with-group {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  width: 344px;
+  height: 393px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 376px;
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 436px;
+  color: var(--color-gold-200);
+  font-family: var(--font-poppins);
+}
+.please-keep-your3 {
+  position: absolute;
+  top: 114px;
+  left: calc(50% - 165.5px);
+  letter-spacing: 0.03em;
+  font-family: var(--font-plus-jakarta-sans);
+  text-align: left;
+}
+.heroicons-outlinemenu-alt-2 {
+  position: absolute;
+  top: 70px;
+  left: 22px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.landing-page3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-futura-md-bt);
+}

@@ -1,0 +1,63 @@
+.bg-icon4,
+.logo-icon4 {
+  position: absolute;
+  object-fit: contain;
+}
+.bg-icon4 {
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+}
+.logo-icon4 {
+  top: calc(50% - 99px);
+  left: 87px;
+  width: 202.3px;
+  height: 198px;
+}
+.the-second-brain1 {
+  position: absolute;
+  top: 921px;
+  left: calc(50% - 80.5px);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.verify-with-fingerprints1 {
+  position: absolute;
+  top: 1149px;
+  left: 85px;
+  letter-spacing: 0.05em;
+}
+.finger-prints-31,
+.project-skio-aiva-21 {
+  position: absolute;
+  top: 984px;
+  left: 136px;
+  width: 102.2px;
+  height: 102px;
+  object-fit: cover;
+}
+.project-skio-aiva-21 {
+  top: 906px;
+  left: 10px;
+  width: 353.7px;
+  height: 83px;
+}
+.welcome-to1 {
+  position: absolute;
+  top: 836px;
+  left: calc(50% - 96.5px);
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+}
+.splash-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-futura-pt);
+}

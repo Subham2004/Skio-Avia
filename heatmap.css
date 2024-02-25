@@ -1,0 +1,163 @@
+.bg-icon23 {
+  position: absolute;
+  top: -24px;
+  left: -204px;
+  width: 781px;
+  height: 1594px;
+  object-fit: contain;
+}
+.heatmap-inner {
+  position: absolute;
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+  display: none;
+}
+.group-child78 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 184px);
+  background-color: var(--color-black);
+  width: 375px;
+  height: 1132px;
+}
+.sales-leadership-shared {
+  margin-bottom: 0;
+}
+.sales-leadership-shared-inter {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-2xl);
+}
+.sales-leadership-shared-container {
+  position: absolute;
+  top: 372px;
+  left: calc(50% - 172px);
+  line-height: 27px;
+  display: inline-block;
+  width: 345px;
+}
+.heatmap-1-icon {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 378.2px;
+  height: 369px;
+  object-fit: cover;
+}
+.rectangle-parent33 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 191px);
+  width: 382px;
+  height: 1132px;
+}
+.group-wrapper,
+.heatmap-description-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 382px;
+  height: 527px;
+}
+.heatmap-description-inner {
+  left: -7px;
+  height: 512px;
+}
+.heatmap-description {
+  position: absolute;
+  top: 352px;
+  left: 0;
+  width: 375px;
+  height: 527px;
+  overflow-y: auto;
+}
+.group-child79 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.meeting-alex-points {
+  position: absolute;
+  top: 8px;
+  left: 54px;
+  line-height: 25.5px;
+  font-weight: 500;
+}
+.group-parent4 {
+  position: absolute;
+  top: 292px;
+  left: 26px;
+  width: 327px;
+  height: 42px;
+  font-size: var(--font-size-mini);
+}
+.alex-rodrigues7 {
+  white-space: pre-wrap;
+}
+.view-linkedin-profile1 {
+  font-weight: 700;
+}
+.view-linkedin-profile {
+  margin: 0;
+  white-space: pre-wrap;
+  color: var(--color-gold-200);
+}
+.alex-rodrigues-container {
+  position: absolute;
+  top: 229px;
+  left: 107px;
+  line-height: 24px;
+  text-align: center;
+}
+.heatmap-child1 {
+  position: absolute;
+  top: 123px;
+  left: 138px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.heatmap-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 112px;
+}
+.co-relation-heatmap {
+  margin: 0;
+}
+.business-matchmaking-container5 {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 83.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gold-200);
+}
+.heroicons-outlinemenu-alt-27 {
+  position: absolute;
+  top: 63px;
+  left: 61px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.heatmap1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

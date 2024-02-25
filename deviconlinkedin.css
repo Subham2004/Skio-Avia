@@ -1,0 +1,27 @@
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 95.42%;
+  width: 95.42%;
+  top: 2.5%;
+  right: 2.08%;
+  bottom: 2.08%;
+  left: 2.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2 {
+  height: 68.33%;
+  width: 68.33%;
+  top: 15.42%;
+  right: 16.25%;
+  bottom: 16.25%;
+  left: 15.42%;
+}
+.deviconlinkedin {
+  width: 100%;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+}

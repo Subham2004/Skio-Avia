@@ -1,0 +1,51 @@
+.group-child112 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+  width: 240px;
+  height: 49px;
+}
+.instant-bmi-1-icon3 {
+  position: absolute;
+  top: 16px;
+  left: 10px;
+  width: 19px;
+  height: 17.9px;
+  object-fit: cover;
+}
+.group-child113 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-olive);
+  width: 5px;
+  height: 49px;
+}
+.instant-bmi-business3 {
+  margin: 0;
+}
+.instant-bmi-business-container8 {
+  position: absolute;
+  top: 6px;
+  left: 38px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+}
+.rectangle-parent44 {
+  width: 240px;
+  position: relative;
+  height: 49px;
+}
+.dashboard {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-olive);
+  font-family: var(--font-plus-jakarta-sans);
+}

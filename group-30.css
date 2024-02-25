@@ -1,0 +1,128 @@
+.group-child50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-200);
+  width: 328px;
+  height: 56px;
+}
+.group-child51 {
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.oneconnect-network {
+  position: absolute;
+  top: 33px;
+  left: 58px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.gridiconschat {
+  position: absolute;
+  top: 12px;
+  left: 286px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 328px;
+  height: 56px;
+}
+.juliana-ng2 {
+  position: absolute;
+  top: 9px;
+  left: 57px;
+  line-height: 130%;
+}
+.iq-canada {
+  position: absolute;
+  top: 33px;
+  left: 59px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.rectangle-parent15,
+.rectangle-parent16 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  width: 328px;
+  height: 56px;
+}
+.rectangle-parent16 {
+  top: 142px;
+}
+.iq-canada1 {
+  position: absolute;
+  top: 33px;
+  left: 57px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  color: var(--color-darkgray);
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 213px;
+  left: 0;
+  width: 328px;
+  height: 56px;
+}
+.rihana-matrix {
+  position: absolute;
+  top: 9px;
+  left: 58px;
+  line-height: 130%;
+}
+.rectangle-parent18,
+.rectangle-parent19,
+.rectangle-parent20 {
+  position: absolute;
+  top: 284px;
+  left: 0;
+  width: 328px;
+  height: 56px;
+}
+.rectangle-parent19,
+.rectangle-parent20 {
+  top: 355px;
+}
+.rectangle-parent20 {
+  top: 426px;
+}
+.reha-warren {
+  position: absolute;
+  top: 9px;
+  left: 59px;
+  line-height: 130%;
+}
+.rectangle-parent21,
+.rectangle-parent22 {
+  position: absolute;
+  top: 495px;
+  left: 0;
+  width: 328px;
+  height: 56px;
+}
+.rectangle-parent22 {
+  top: 566px;
+}
+.group-root {
+  width: 100%;
+  position: relative;
+  height: 622px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

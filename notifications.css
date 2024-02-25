@@ -1,0 +1,88 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.property-1default-item {
+  position: absolute;
+  height: 65.31%;
+  width: 2.08%;
+  top: 0;
+  right: 97.92%;
+  bottom: 34.69%;
+  left: 0;
+}
+.notifications3 {
+  position: absolute;
+  top: 34.69%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+}
+.claritynotification-solid-icon1 {
+  position: absolute;
+  height: 36.73%;
+  width: 7.5%;
+  top: 34.69%;
+  right: 87.5%;
+  bottom: 28.57%;
+  left: 5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property-1default2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 240px;
+  height: 49px;
+}
+.property-1default-child1,
+.property-1default-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+}
+.property-1default-child1 {
+  width: 2.08%;
+  right: 97.92%;
+  background-color: var(--color-olive);
+}
+.notifications4 {
+  position: absolute;
+  top: 34.69%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+}
+.property-1default3 {
+  position: absolute;
+  top: 77px;
+  left: 20px;
+  width: 240px;
+  height: 49px;
+  color: var(--color-olive);
+}
+.notifications2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 146px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

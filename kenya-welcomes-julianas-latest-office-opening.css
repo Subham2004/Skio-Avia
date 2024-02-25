@@ -1,0 +1,10 @@
+.kenya-welcomes-julianas2 {
+  width: 176px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  line-height: 18px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}

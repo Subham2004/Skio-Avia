@@ -1,0 +1,11 @@
+.the-second-brain10 {
+  width: 160px;
+  position: relative;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  font-family: var(--font-futura-pt);
+  color: var(--color-gold-200);
+  text-align: center;
+  display: inline-block;
+}

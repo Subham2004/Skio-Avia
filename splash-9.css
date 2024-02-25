@@ -1,0 +1,86 @@
+.bg-icon7 {
+  position: absolute;
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+  object-fit: contain;
+}
+.project-skio-aiva-11 {
+  position: absolute;
+  top: -9px;
+  left: -731px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.splash-9-child {
+  position: absolute;
+  top: 486px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.82) 71.85%,
+    #000
+  );
+  width: 375px;
+  height: 326px;
+}
+.logo-icon7 {
+  position: absolute;
+  top: calc(50% - 234px);
+  left: 103.3px;
+  width: 169.6px;
+  height: 166px;
+  object-fit: contain;
+}
+.welcome-to3 {
+  position: absolute;
+  top: calc(50% - 46px);
+  left: calc(50% - 105.5px);
+  font-weight: 600;
+}
+.finger-prints-34 {
+  position: absolute;
+  top: 638px;
+  left: 146.5px;
+  width: 82.2px;
+  height: 82px;
+  object-fit: cover;
+}
+.verify-with-fingerprints4 {
+  position: absolute;
+  top: 742px;
+  left: 65px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.05em;
+}
+.the-second-brain4 {
+  position: absolute;
+  top: 482px;
+  left: calc(50% - 72.5px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  color: var(--color-gold-200);
+}
+.project-skio-aiva-23 {
+  position: absolute;
+  top: 406px;
+  left: calc(50% - 155.5px);
+  width: 311px;
+  height: 83px;
+  object-fit: cover;
+}
+.splash-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

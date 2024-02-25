@@ -1,0 +1,375 @@
+.bg-icon13 {
+  position: absolute;
+  top: -24px;
+  left: -204px;
+  width: 781px;
+  height: 1594px;
+  object-fit: contain;
+}
+.instant-bmi-child {
+  position: absolute;
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+  display: none;
+}
+.alex {
+  margin: 0;
+}
+.alex-rodrigues {
+  position: absolute;
+  top: 107px;
+  left: 10px;
+  line-height: 130%;
+}
+.alex-rodrigues-parent,
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+}
+.ellipse-icon {
+  height: 100px;
+  object-fit: cover;
+}
+.alex-rodrigues-parent {
+  height: 149px;
+}
+.alejandro-seath {
+  position: absolute;
+  top: 107px;
+  left: 12px;
+  line-height: 130%;
+}
+.alejandro-seath-parent {
+  position: absolute;
+  top: 0;
+  left: 227px;
+  width: 100px;
+  height: 149px;
+}
+.juliana-ng {
+  position: absolute;
+  top: 107px;
+  left: 23px;
+  line-height: 130%;
+}
+.juliana-ng-parent {
+  position: absolute;
+  top: 0;
+  left: 114px;
+  width: 100px;
+  height: 149px;
+}
+.paula-jones {
+  position: absolute;
+  top: 107px;
+  left: 28px;
+  line-height: 130%;
+}
+.paula-jones-parent,
+.savannah-nguyen-parent {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  width: 100px;
+  height: 149px;
+  display: none;
+}
+.savannah-nguyen-parent {
+  left: 114px;
+}
+.jenny-wilson {
+  position: absolute;
+  top: 107px;
+  left: 24px;
+  line-height: 130%;
+}
+.jenny-wilson-parent {
+  position: absolute;
+  top: 171px;
+  left: 227px;
+  width: 100px;
+  height: 149px;
+  display: none;
+}
+.jacob-jones {
+  position: absolute;
+  top: 107px;
+  left: 27px;
+  line-height: 130%;
+}
+.jacob-jones-parent {
+  position: absolute;
+  top: 342px;
+  left: 0;
+  width: 100px;
+  height: 149px;
+  display: none;
+}
+.wade-warren {
+  position: absolute;
+  top: 107px;
+  left: 22px;
+  line-height: 130%;
+}
+.wade-warren-parent {
+  position: absolute;
+  top: 342px;
+  left: 114px;
+  width: 100px;
+  height: 149px;
+  display: none;
+}
+.brooklyn-simmons {
+  position: absolute;
+  top: 107px;
+  left: 14px;
+  line-height: 130%;
+}
+.brooklyn-simmons-parent {
+  position: absolute;
+  top: 342px;
+  left: 227px;
+  width: 100px;
+  height: 149px;
+  display: none;
+}
+.bessie-cooper,
+.devon-lane,
+.floyd-miles {
+  position: absolute;
+  top: 107px;
+  left: 29px;
+  line-height: 130%;
+}
+.bessie-cooper,
+.devon-lane {
+  left: 20px;
+}
+.devon-lane {
+  left: 25px;
+}
+.avtars-4,
+.group-parent1 {
+  position: absolute;
+  left: 0;
+  width: 327px;
+  height: 149px;
+}
+.avtars-4 {
+  top: 513px;
+  display: none;
+}
+.group-parent1 {
+  top: 0;
+}
+.thats-all-folks {
+  position: absolute;
+  top: 193px;
+  left: calc(50% - 45.5px);
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-weight: 300;
+}
+.group-container {
+  position: absolute;
+  top: 681px;
+  left: 24px;
+  width: 327px;
+  height: 164px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.good-morning,
+.hope-we-are-container {
+  position: absolute;
+  top: 114px;
+  left: 24px;
+}
+.hope-we-are-container {
+  top: 203px;
+  font-size: var(--font-size-mid);
+  line-height: 25.5px;
+  font-weight: 500;
+}
+.instant-bmi-item {
+  position: absolute;
+  top: 54px;
+  left: 309px;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+.rupam-bhattacharjee1 {
+  position: absolute;
+  top: 154px;
+  left: 20px;
+  font-size: var(--font-size-3xl);
+  line-height: 130%;
+}
+.instant-bmi5 {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 51.5px);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gold-200);
+}
+.heroicons-outlinemenu-alt-21,
+.ionchevron-back-icon {
+  position: absolute;
+  top: 63px;
+  left: 61px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ionchevron-back-icon {
+  left: 18px;
+  cursor: pointer;
+}
+.instant-bmi-inner {
+  position: absolute;
+  top: 272px;
+  left: calc(50% - 163.5px);
+  border-radius: var(--br-3xs);
+  background-color: #f6f6f6;
+  width: 328px;
+  height: 392px;
+}
+.write-your-message {
+  position: relative;
+  z-index: 0;
+}
+.vuesaxboldsend-icon,
+.vuesaxlinearmicrophone-2-icon {
+  width: 24px;
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 279px;
+  height: 24px;
+  z-index: 1;
+}
+.vuesaxlinearmicrophone-2-icon {
+  left: 262px;
+  display: none;
+  z-index: 2;
+}
+.write-your-message-parent {
+  position: absolute;
+  top: 600px;
+  left: 32px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: 5px 4px 20px rgba(0, 0, 0, 0.13);
+  width: 314px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 0 22px;
+  box-sizing: border-box;
+  gap: 0 10px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkgray);
+}
+.search-for-good-container {
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+}
+.search-for-good-peaceful-mee-wrapper {
+  position: absolute;
+  top: 293px;
+  left: 65px;
+  border-radius: var(--br-6xl) 0 var(--br-6xl) var(--br-6xl);
+  background-color: var(--color-gold-200);
+  width: 267px;
+  height: 54px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.co-working-spaces {
+  font-family: var(--font-plus-jakarta-sans);
+  color: #020202;
+}
+.co-working-spaces-consider-pl1 {
+  margin-bottom: 0;
+}
+.hotels1 {
+  color: var(--color-black);
+}
+.hotels {
+  font-family: var(--font-plus-jakarta-sans);
+}
+.many-hotels-in-the-raffles-pla {
+  color: var(--color-dimgray-100);
+}
+.co-working-spaces-consider-pl {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 17px;
+}
+.co-working-spaces-consider-container {
+  width: 226px;
+  position: relative;
+  line-height: 19.5px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.co-working-spaces-consider-pl-wrapper {
+  position: absolute;
+  top: 371px;
+  left: 63px;
+  border-radius: var(--br-6xl) var(--br-6xl) var(--br-6xl) 0;
+  background-color: #ecebeb;
+  width: 252px;
+  height: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-100);
+}
+.blue-robot-mascot-logo-icon-de {
+  width: 11.8px;
+  position: relative;
+  height: 17.7px;
+  object-fit: cover;
+}
+.blue-robot-mascot-logo-icon-de-wrapper {
+  position: absolute;
+  top: 550px;
+  left: 32px;
+  border-radius: 245.28px;
+  background-color: var(--color-white);
+  box-shadow: 0 2px 1.96px rgba(0, 0, 0, 0.05);
+  width: 26px;
+  height: 25.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.instant-bmi4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

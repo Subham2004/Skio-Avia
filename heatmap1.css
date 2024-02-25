@@ -1,0 +1,124 @@
+.property-1group-33-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.property-1group-33-item {
+  position: absolute;
+  height: 80.41%;
+  width: 2.08%;
+  top: 0;
+  right: 97.92%;
+  bottom: 19.59%;
+  left: 0;
+}
+.business-matchmaking7 {
+  margin: 0;
+}
+.business-matchmaking-container7 {
+  position: absolute;
+  height: 80.41%;
+  width: 67.08%;
+  top: 18.37%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.clarityadministrator-solid-icon1 {
+  position: absolute;
+  height: 45.31%;
+  width: 7.5%;
+  top: 17.55%;
+  right: 87.92%;
+  bottom: 37.14%;
+  left: 4.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.usiness-matchmaking-heatmap-icon6 {
+  position: absolute;
+  height: 61.22%;
+  width: 14.33%;
+  top: 10.2%;
+  right: 83.58%;
+  bottom: 28.57%;
+  left: 2.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-33 {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+  width: 240px;
+  height: 49px;
+}
+.property-1group-39-child,
+.property-1group-39-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+}
+.property-1group-39-item {
+  width: 2.08%;
+  right: 97.92%;
+  background-color: var(--color-olive);
+}
+.business-matchmaking8 {
+  position: absolute;
+  height: 79.59%;
+  width: 76.25%;
+  top: 18.37%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  display: inline-block;
+}
+.usiness-matchmaking-heatmap-1-icon {
+  position: absolute;
+  height: 43.27%;
+  width: 12.08%;
+  top: 18.37%;
+  right: 83.75%;
+  bottom: 38.37%;
+  left: 4.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-39 {
+  position: absolute;
+  top: 93px;
+  left: 20px;
+  width: 240px;
+  height: 49px;
+  color: var(--color-olive);
+}
+.heatmap2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 161px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

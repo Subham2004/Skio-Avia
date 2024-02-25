@@ -1,0 +1,111 @@
+.property-1group-33-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.property-1group-33-child1 {
+  position: absolute;
+  height: 82.04%;
+  width: 2.08%;
+  top: 0;
+  right: 97.92%;
+  bottom: 17.96%;
+  left: 0;
+}
+.latest-update-from2 {
+  margin: 0;
+}
+.latest-update-from-container2 {
+  position: absolute;
+  height: 82.04%;
+  width: 79.17%;
+  top: 17.96%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.business-network-newsroom-icon6 {
+  position: absolute;
+  height: 42.86%;
+  width: 8.92%;
+  top: 22.45%;
+  right: 87.33%;
+  bottom: 34.69%;
+  left: 3.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-331 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  width: 240px;
+  height: 49px;
+}
+.property-1group-39-child1,
+.property-1group-39-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+}
+.property-1group-39-child1 {
+  width: 2.08%;
+  right: 97.92%;
+  background-color: var(--color-olive);
+}
+.latest-update-from-container3 {
+  position: absolute;
+  height: 81.63%;
+  width: 82.5%;
+  top: 18.37%;
+  left: 17.5%;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  display: inline-block;
+}
+.business-network-newsroom-1-icon {
+  position: absolute;
+  height: 44.9%;
+  width: 7.96%;
+  top: 22.45%;
+  right: 87.88%;
+  bottom: 32.65%;
+  left: 4.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-391 {
+  position: absolute;
+  top: 88px;
+  left: 20px;
+  width: 240px;
+  height: 49px;
+  color: var(--color-olive);
+}
+.bnn9 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 157px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

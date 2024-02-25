@@ -1,0 +1,238 @@
+.bg-icon10,
+.logo-icon11 {
+  position: absolute;
+  object-fit: contain;
+}
+.bg-icon10 {
+  top: -24px;
+  left: -95px;
+  width: 563.4px;
+  height: 845px;
+}
+.logo-icon11 {
+  top: calc(50% + 18.5px);
+  left: 37.8px;
+  width: 37.8px;
+  height: 37px;
+}
+.skio-aiva3 {
+  position: absolute;
+  top: 6px;
+  left: 47px;
+  font-weight: 500;
+}
+.logo-group {
+  position: absolute;
+  top: calc(50% - 342px);
+  left: 24px;
+  width: 144px;
+  height: 37px;
+  display: none;
+}
+.landing-page-item {
+  position: absolute;
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+  display: none;
+}
+.group-child4,
+.mask-group-icon1 {
+  position: absolute;
+  left: calc(50% - 187.5px);
+  width: 375px;
+}
+.mask-group-icon1 {
+  top: 160px;
+  height: 652px;
+  object-fit: cover;
+}
+.group-child4 {
+  top: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-gray-300);
+  height: 436px;
+}
+.life-is-better1 {
+  position: absolute;
+  top: 14px;
+  left: 17px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-white);
+}
+.skio-aiva4,
+.the-second-brain7 {
+  position: absolute;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.skio-aiva4 {
+  top: 46px;
+  left: 17px;
+  font-size: var(--font-size-28xl);
+  font-family: var(--font-colo-pro);
+  color: var(--color-gold-100);
+  text-shadow: 0 0 20px #f3d42e;
+}
+.the-second-brain7 {
+  top: 99px;
+  left: calc(50% - 170.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-futura-pt);
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 172px);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray-200);
+  width: 344px;
+  height: 72px;
+}
+.group-child6 {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  border-radius: var(--br-14xl-5);
+  background-color: var(--color-gray-100);
+  width: 67px;
+  height: 67px;
+}
+.business1 {
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.matchmaking1 {
+  font-weight: 500;
+}
+.business-matchmaking1 {
+  margin: 0;
+}
+.co-relations-heatmap1 {
+  margin: 0;
+  color: var(--color-white);
+}
+.business-matchmaking-container1 {
+  position: absolute;
+  top: 12px;
+  left: 81px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+.usiness-matchmaking-heatmap-icon1 {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 47px;
+  height: 41px;
+  object-fit: cover;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 243px;
+  left: calc(50% - 179.5px);
+  width: 344px;
+  height: 72px;
+}
+.newsroom1 {
+  font-weight: 500;
+  color: var(--color-gold-200);
+}
+.business-network-newsroom-container1 {
+  position: absolute;
+  top: 24px;
+  left: 81px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+.business-network-newsroom-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  width: 57px;
+  height: 56px;
+  object-fit: cover;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 344px;
+  left: calc(50% - 179.5px);
+  width: 344px;
+  height: 72px;
+  color: var(--color-white);
+}
+.instant-bmi-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 52px;
+  height: 46px;
+  object-fit: cover;
+}
+.insights1 {
+  margin: 0;
+  font-weight: 500;
+}
+.instant-bmi-business-container1 {
+  position: absolute;
+  top: 14px;
+  left: 81px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 142px;
+  left: calc(50% - 179.5px);
+  width: 344px;
+  height: 72px;
+}
+.please-keep-your1,
+.rectangle-parent1 {
+  position: absolute;
+  font-size: var(--font-size-base);
+  text-align: left;
+}
+.rectangle-parent1 {
+  top: 834px;
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 436px;
+  color: var(--color-gold-200);
+  font-family: var(--font-inter);
+}
+.please-keep-your1 {
+  top: 114px;
+  left: 24px;
+  letter-spacing: 0.03em;
+  font-family: var(--font-plus-jakarta-sans);
+}
+.logo-icon12 {
+  position: absolute;
+  top: calc(50% - 342px);
+  left: 314px;
+  width: 37.8px;
+  height: 37px;
+  object-fit: contain;
+}
+.skio-aiva5 {
+  position: absolute;
+  top: 70px;
+  left: 210px;
+  font-weight: 500;
+}
+.landing-page1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-futura-md-bt);
+}

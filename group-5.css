@@ -1,0 +1,56 @@
+.group-child104 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 172px);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray-200);
+  width: 344px;
+  height: 72px;
+}
+.group-child105 {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  border-radius: var(--br-14xl-5);
+  background-color: var(--color-gray-100);
+  width: 67px;
+  height: 67px;
+}
+.business4 {
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.matchmaking4 {
+  font-weight: 500;
+}
+.business-matchmaking6 {
+  margin: 0;
+}
+.co-relations-heatmap5 {
+  margin: 0;
+  color: var(--color-white);
+}
+.business-matchmaking-container6 {
+  position: absolute;
+  top: 12px;
+  left: 85px;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+}
+.usiness-matchmaking-heatmap-icon5 {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 47px;
+  height: 41px;
+  object-fit: cover;
+}
+.rectangle-wrapper {
+  width: 100%;
+  position: relative;
+  height: 72px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gold-200);
+  font-family: var(--font-inter);
+}

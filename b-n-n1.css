@@ -1,0 +1,230 @@
+.bg-icon16 {
+  position: absolute;
+  top: -24px;
+  left: -204px;
+  width: 781px;
+  height: 1594px;
+  object-fit: contain;
+}
+.bg1,
+.bnn-child2 {
+  position: absolute;
+  display: none;
+}
+.bg1 {
+  top: -24px;
+  left: 577px;
+  background-color: var(--color-black);
+  width: 1594px;
+  height: 781px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.bnn-child2 {
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+}
+.bnn-child3 {
+  position: absolute;
+  top: 54px;
+  left: 309px;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+.bnn4 {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 24.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gold-200);
+}
+.heroicons-outlinemenu-alt-24,
+.ionchevron-back-icon3 {
+  position: absolute;
+  top: 63px;
+  left: 61px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ionchevron-back-icon3 {
+  left: 17px;
+  cursor: pointer;
+}
+.search-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  width: 328px;
+  height: 48px;
+}
+.icon-park-outlinesearch2 {
+  position: absolute;
+  top: 12px;
+  left: 294px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.search-news1,
+.search2 {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+}
+.search2 {
+  top: 168px;
+  left: 24px;
+  width: 328px;
+  height: 48px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+}
+.bnn-news-alert1 {
+  top: 128px;
+  left: 24px;
+  font-size: var(--font-size-3xl);
+}
+.back,
+.bnn-news-alert1,
+.latest-news-for1 {
+  position: absolute;
+  line-height: 130%;
+}
+.back {
+  top: 250px;
+  left: 323px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.latest-news-for1 {
+  top: 247px;
+  left: 30px;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+}
+.news-2-child2 {
+  position: absolute;
+  top: 88.5px;
+  left: 0;
+  border-radius: 0 0 var(--br-mid-7) var(--br-mid-7);
+  background-color: var(--color-gray-200);
+  width: 159.3px;
+  height: 73.5px;
+}
+.rajiv1 {
+  position: absolute;
+  top: 97.4px;
+  left: 10.6px;
+  line-height: 130%;
+}
+.image-icon8,
+.news-24 {
+  position: absolute;
+  width: 159.3px;
+}
+.image-icon8 {
+  top: 0;
+  left: 0;
+  height: 88.5px;
+  object-fit: cover;
+}
+.news-24 {
+  top: 286px;
+  left: 24px;
+  height: 162px;
+  cursor: pointer;
+}
+.category2 {
+  position: relative;
+  line-height: 130%;
+}
+.category-frame {
+  position: absolute;
+  top: 10.6px;
+  left: 101.8px;
+  border-radius: 7.08px;
+  background-color: var(--color-white);
+  width: 46.9px;
+  height: 23px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 7.081967353820801px;
+  box-sizing: border-box;
+  font-size: var(--font-size-5xs-1);
+}
+.news-14,
+.news-25 {
+  position: absolute;
+  top: 286px;
+  left: 193px;
+  width: 159.3px;
+  height: 162px;
+}
+.news-25 {
+  top: 458px;
+  left: 24px;
+}
+.jenny-has-organize {
+  position: absolute;
+  top: 119.5px;
+  left: 10.6px;
+  font-size: var(--font-size-2xs-6);
+  line-height: 15.93px;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 122.2px;
+}
+.news-15,
+.news-26 {
+  position: absolute;
+  top: 630px;
+  left: 24px;
+  width: 159.3px;
+  height: 162px;
+}
+.news-15 {
+  top: 458px;
+  left: 193px;
+}
+.paula-recently-attended {
+  margin: 0;
+}
+.paula-recently-attended-container {
+  position: absolute;
+  top: 119.5px;
+  left: 10.6px;
+  font-size: var(--font-size-2xs-6);
+  line-height: 15.93px;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 139.9px;
+}
+.news-16 {
+  position: absolute;
+  top: 630px;
+  left: 193px;
+  width: 159.3px;
+  height: 162px;
+}
+.bnn3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini-2);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}

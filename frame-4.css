@@ -1,0 +1,27 @@
+.frame-child1,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 6.8px;
+  left: 7.1px;
+  width: 10.8px;
+  height: 10.8px;
+  object-fit: contain;
+}
+.frame-child1,
+.frame-inner {
+  top: 6.7px;
+  left: 6.7px;
+}
+.frame-child1 {
+  top: 8.3px;
+  left: 6.9px;
+  width: 9px;
+  height: 9px;
+}
+.vector-parent {
+  width: 100%;
+  position: relative;
+  background-color: transparent;
+  height: 24px;
+}

@@ -1,0 +1,254 @@
+.bg-icon26 {
+  position: absolute;
+  top: -24px;
+  left: -204px;
+  width: 781px;
+  height: 1594px;
+  object-fit: contain;
+}
+.good-morning2 {
+  position: absolute;
+  top: 109px;
+  left: 24px;
+}
+.hope-we-are2 {
+  margin: 0;
+}
+.hope-we-are-container2 {
+  position: absolute;
+  top: 200px;
+  left: 24px;
+  font-size: var(--font-size-mid);
+  line-height: 25.5px;
+  font-weight: 500;
+}
+.landing-page-child2 {
+  position: absolute;
+  top: 112px;
+  left: 16.5px;
+  width: 342.5px;
+  height: 0;
+  display: none;
+}
+.landing-page-child3 {
+  position: absolute;
+  top: 54px;
+  left: 309px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gold-200);
+  box-sizing: border-box;
+  width: 42px;
+  height: 42px;
+}
+.mask-group-icon5 {
+  position: absolute;
+  top: 55px;
+  left: 310.2px;
+  width: 39.7px;
+  height: 39.7px;
+  object-fit: cover;
+}
+.rupam-bhattacharjee3 {
+  position: absolute;
+  top: 143px;
+  left: 18px;
+  font-size: var(--font-size-3xl);
+  line-height: 130%;
+}
+.instant-bmi8 {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 51.5px);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gold-200);
+}
+.search-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 328px;
+  height: 40px;
+}
+.icon-park-outlinesearch5 {
+  position: absolute;
+  top: 8px;
+  left: 294px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.good-peaceful1,
+.search5 {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+}
+.search5 {
+  top: 264px;
+  left: 24px;
+  width: 328px;
+  height: 40px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+  font-family: var(--font-inter);
+}
+.heroicons-outlinemenu-alt-28,
+.ionchevron-back-icon6 {
+  position: absolute;
+  top: 63px;
+  left: 61px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ionchevron-back-icon6 {
+  left: 17px;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 328px;
+  height: 624px;
+  opacity: 0;
+}
+.alex-rodrigues8 {
+  position: absolute;
+  top: 107px;
+  left: 10px;
+  line-height: 21px;
+}
+.group-child90 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.alejandro-seath3 {
+  position: absolute;
+  top: 107px;
+  left: 12px;
+  line-height: 21px;
+}
+.alejandro-seath-container {
+  position: absolute;
+  top: 0;
+  left: 227px;
+  width: 100px;
+  height: 149px;
+}
+.juliana-ng3 {
+  position: absolute;
+  top: 107px;
+  left: 20px;
+  line-height: 21px;
+}
+.avtars1,
+.juliana-ng-container {
+  position: absolute;
+  top: 0;
+  left: 114px;
+  width: 100px;
+  height: 149px;
+}
+.avtars1 {
+  left: 0;
+  width: 327px;
+}
+.paula-jones3 {
+  position: absolute;
+  top: 107px;
+  left: 26px;
+  line-height: 21px;
+}
+.paula-jones-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 149px;
+}
+.jenny-wilson2,
+.savannah-nguyen3 {
+  position: absolute;
+  top: 107px;
+  left: 9px;
+  line-height: 21px;
+}
+.jenny-wilson2 {
+  left: 24px;
+}
+.avtars-2 {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  width: 327px;
+  height: 149px;
+}
+.jacob-jones2,
+.wade-warren2 {
+  position: absolute;
+  top: 107px;
+  left: 25px;
+  line-height: 21px;
+}
+.wade-warren2 {
+  left: 21px;
+}
+.avtars-3 {
+  position: absolute;
+  top: 342px;
+  left: 0;
+  width: 327px;
+  height: 149px;
+}
+.floyd-miles2 {
+  position: absolute;
+  top: 107px;
+  left: 29px;
+  line-height: 21px;
+}
+.avtars-42,
+.avtars1-parent {
+  position: absolute;
+  width: 327px;
+}
+.avtars-42 {
+  top: 513px;
+  left: 0;
+  height: 149px;
+}
+.avtars1-parent {
+  top: 0;
+  left: calc(50% - 164px);
+  height: 662px;
+  overflow: hidden;
+}
+.rectangle-parent41 {
+  position: absolute;
+  top: 336px;
+  left: 24px;
+  width: 328px;
+  height: 624px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.landing-page4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 812px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}
