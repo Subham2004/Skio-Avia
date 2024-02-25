@@ -1,0 +1,11 @@
+.your-intelligent-companion {
+  width: 288px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
